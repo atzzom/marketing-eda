@@ -1,4 +1,4 @@
-# Publicis Delivery Group
+# Marketing EDA
 
 This repository contains the analysis of different source for a skin disease campaign.
 
